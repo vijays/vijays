@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijays
-- 👀 I’m interested in ML AI
-- 🌱 I’m currently learning Java Spring and Python
+- 👀 I’m interested in alternative sciences, technologies and philosophies
+- 🌱 I’m currently learning Java Spring, Docker and Continuous Integration
 
 <!---
 vijays/vijays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
