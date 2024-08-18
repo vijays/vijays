@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vijays
-- 👀 I’m interested in alternative sciences, technologies and philosophies
-- 🌱 I’m currently learning Java Spring, JPA, Hibernate, REST APIs, Docker and Continuous Integration
+- 👀 I’m interested in alternative technologies, sciences and philosophies
+- 🌱 I’m currently exploring Linux variants, specifically NixOS
 
 <!---
 vijays/vijays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
